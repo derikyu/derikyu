@@ -1,7 +1,7 @@
 Howdy! 
 
-> Systems thinker. Startup builder. Yeild farmer
-> I don’t build apps. I do occasionally build order. 
+Systems thinker. Startup builder. Yeild farmer
+I don’t build apps. I do occasionally build order. 
 
 ### 🧠 Interests
 - Systems Thinking & Design 
@@ -14,6 +14,7 @@ Howdy!
  ### 📫 Connect
 - [Medium](https://medium.com/@fieldnotesbyderek)  
 - [Twitter](https://x.com/whoisderekdash) 
+
 
 Building order. One system at a time.
 
