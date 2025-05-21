@@ -1,6 +1,7 @@
 Howdy! 
 
 Systems thinker. Startup builder. Yeild farmer
+
 I don’t build apps. I do occasionally build order. 
 
 ### 🧠 Interests
