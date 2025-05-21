@@ -11,7 +11,7 @@ I don’t build apps. I do occasionally build order.
 
 ### 🛠 Projects
 - [Agriguard](https://www.linkedin.com/company/agriguard-ltd/) – AI-powered climate-smart solutions for Africa’s smallholder farmers.
-- [ClearPath](https://aclearpath.vercel.app/) Lightweight project management tool for founders and small teams
+- [ClearPath](https://aclearpath.vercel.app/) - Lightweight project management tool for founders and small teams
 
  ### 📫 Connect
 - [Medium](https://medium.com/@fieldnotesbyderek)  
